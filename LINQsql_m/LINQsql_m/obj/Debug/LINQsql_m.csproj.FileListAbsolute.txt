@@ -1,0 +1,11 @@
+D:\ITMO\ADO .NET\Лабы\LINQsql_m\LINQsql_m\bin\Debug\LINQsql_m.exe.config
+D:\ITMO\ADO .NET\Лабы\LINQsql_m\LINQsql_m\bin\Debug\LINQsql_m.exe
+D:\ITMO\ADO .NET\Лабы\LINQsql_m\LINQsql_m\bin\Debug\LINQsql_m.pdb
+D:\ITMO\ADO .NET\Лабы\LINQsql_m\LINQsql_m\obj\Debug\LINQsql_m.csproj.AssemblyReference.cache
+D:\ITMO\ADO .NET\Лабы\LINQsql_m\LINQsql_m\obj\Debug\LINQsql_m.csproj.SuggestedBindingRedirects.cache
+D:\ITMO\ADO .NET\Лабы\LINQsql_m\LINQsql_m\obj\Debug\LINQsql_m.Form1.resources
+D:\ITMO\ADO .NET\Лабы\LINQsql_m\LINQsql_m\obj\Debug\LINQsql_m.Properties.Resources.resources
+D:\ITMO\ADO .NET\Лабы\LINQsql_m\LINQsql_m\obj\Debug\LINQsql_m.csproj.GenerateResource.cache
+D:\ITMO\ADO .NET\Лабы\LINQsql_m\LINQsql_m\obj\Debug\LINQsql_m.csproj.CoreCompileInputs.cache
+D:\ITMO\ADO .NET\Лабы\LINQsql_m\LINQsql_m\obj\Debug\LINQsql_m.exe
+D:\ITMO\ADO .NET\Лабы\LINQsql_m\LINQsql_m\obj\Debug\LINQsql_m.pdb
