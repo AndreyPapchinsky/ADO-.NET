@@ -1,0 +1,11 @@
+D:\ITMO\ADO .NET\Лабы\DatasetDesigner\DatasetDesigner\bin\Debug\DatasetDesigner.exe.config
+D:\ITMO\ADO .NET\Лабы\DatasetDesigner\DatasetDesigner\bin\Debug\DatasetDesigner.exe
+D:\ITMO\ADO .NET\Лабы\DatasetDesigner\DatasetDesigner\bin\Debug\DatasetDesigner.pdb
+D:\ITMO\ADO .NET\Лабы\DatasetDesigner\DatasetDesigner\obj\Debug\DatasetDesigner.csproj.AssemblyReference.cache
+D:\ITMO\ADO .NET\Лабы\DatasetDesigner\DatasetDesigner\obj\Debug\DatasetDesigner.csproj.SuggestedBindingRedirects.cache
+D:\ITMO\ADO .NET\Лабы\DatasetDesigner\DatasetDesigner\obj\Debug\DatasetDesigner.Form1.resources
+D:\ITMO\ADO .NET\Лабы\DatasetDesigner\DatasetDesigner\obj\Debug\DatasetDesigner.Properties.Resources.resources
+D:\ITMO\ADO .NET\Лабы\DatasetDesigner\DatasetDesigner\obj\Debug\DatasetDesigner.csproj.GenerateResource.cache
+D:\ITMO\ADO .NET\Лабы\DatasetDesigner\DatasetDesigner\obj\Debug\DatasetDesigner.csproj.CoreCompileInputs.cache
+D:\ITMO\ADO .NET\Лабы\DatasetDesigner\DatasetDesigner\obj\Debug\DatasetDesigner.exe
+D:\ITMO\ADO .NET\Лабы\DatasetDesigner\DatasetDesigner\obj\Debug\DatasetDesigner.pdb
