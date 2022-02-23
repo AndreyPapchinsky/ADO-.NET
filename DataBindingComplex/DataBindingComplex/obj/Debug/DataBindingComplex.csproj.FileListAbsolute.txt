@@ -1,0 +1,11 @@
+D:\ITMO\ADO .NET\Лабы\DataBindingComplex\DataBindingComplex\bin\Debug\DataBindingComplex.exe.config
+D:\ITMO\ADO .NET\Лабы\DataBindingComplex\DataBindingComplex\bin\Debug\DataBindingComplex.exe
+D:\ITMO\ADO .NET\Лабы\DataBindingComplex\DataBindingComplex\bin\Debug\DataBindingComplex.pdb
+D:\ITMO\ADO .NET\Лабы\DataBindingComplex\DataBindingComplex\obj\Debug\DataBindingComplex.csproj.AssemblyReference.cache
+D:\ITMO\ADO .NET\Лабы\DataBindingComplex\DataBindingComplex\obj\Debug\DataBindingComplex.csproj.SuggestedBindingRedirects.cache
+D:\ITMO\ADO .NET\Лабы\DataBindingComplex\DataBindingComplex\obj\Debug\DataBindingComplex.Properties.Resources.resources
+D:\ITMO\ADO .NET\Лабы\DataBindingComplex\DataBindingComplex\obj\Debug\DataBindingComplex.csproj.GenerateResource.cache
+D:\ITMO\ADO .NET\Лабы\DataBindingComplex\DataBindingComplex\obj\Debug\DataBindingComplex.csproj.CoreCompileInputs.cache
+D:\ITMO\ADO .NET\Лабы\DataBindingComplex\DataBindingComplex\obj\Debug\DataBindingComplex.exe
+D:\ITMO\ADO .NET\Лабы\DataBindingComplex\DataBindingComplex\obj\Debug\DataBindingComplex.pdb
+D:\ITMO\ADO .NET\Лабы\DataBindingComplex\DataBindingComplex\obj\Debug\DataBindingComplex.Form1.resources

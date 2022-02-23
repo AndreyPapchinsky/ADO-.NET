@@ -1,0 +1,11 @@
+D:\ITMO\ADO .NET\Лабы\LoadDataSetXml\LoadDataSetXml\bin\Debug\LoadDataSetXml.exe.config
+D:\ITMO\ADO .NET\Лабы\LoadDataSetXml\LoadDataSetXml\bin\Debug\LoadDataSetXml.exe
+D:\ITMO\ADO .NET\Лабы\LoadDataSetXml\LoadDataSetXml\bin\Debug\LoadDataSetXml.pdb
+D:\ITMO\ADO .NET\Лабы\LoadDataSetXml\LoadDataSetXml\obj\Debug\LoadDataSetXml.csproj.AssemblyReference.cache
+D:\ITMO\ADO .NET\Лабы\LoadDataSetXml\LoadDataSetXml\obj\Debug\LoadDataSetXml.csproj.SuggestedBindingRedirects.cache
+D:\ITMO\ADO .NET\Лабы\LoadDataSetXml\LoadDataSetXml\obj\Debug\LoadDataSetXml.Form1.resources
+D:\ITMO\ADO .NET\Лабы\LoadDataSetXml\LoadDataSetXml\obj\Debug\LoadDataSetXml.Properties.Resources.resources
+D:\ITMO\ADO .NET\Лабы\LoadDataSetXml\LoadDataSetXml\obj\Debug\LoadDataSetXml.csproj.GenerateResource.cache
+D:\ITMO\ADO .NET\Лабы\LoadDataSetXml\LoadDataSetXml\obj\Debug\LoadDataSetXml.csproj.CoreCompileInputs.cache
+D:\ITMO\ADO .NET\Лабы\LoadDataSetXml\LoadDataSetXml\obj\Debug\LoadDataSetXml.exe
+D:\ITMO\ADO .NET\Лабы\LoadDataSetXml\LoadDataSetXml\obj\Debug\LoadDataSetXml.pdb
